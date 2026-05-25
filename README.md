@@ -60,7 +60,7 @@
 
 <div align="left">
 
-<img height="160em" src="https://github-readme-stats.vercel.app/api?username=Mari432hz&show_icons=true&hide_border=true&title_color=7B8DA6&icon_color=7B8DA6&text_color=C9D1D9&bg_color=0D1117"/>
+<img height="160em" src="https://github-readme-stats.vercel.app/api?username=Mari432hz&theme=transparent&show_icons=true&hide_border=true&cache_seconds=1800"/>
 
 </div>
 

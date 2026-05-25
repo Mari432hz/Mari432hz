@@ -10,7 +10,7 @@
 
 # 🇺🇸 EN
 
-<img width="100%" src="YOUR_BANNER_HERE"/>
+<img width="100%" src="./README_BANNER.png"/>
 
 <br>
 
@@ -60,7 +60,7 @@
 
 <div align="left">
 
-<img height="160em" src="https://github-readme-stats.vercel.app/api?username=Mari432hz&show_icons=true&hide_border=true&title_color=7B8DA6&icon_color=7B8DA6&text_color=C9D1D9&bg_color=0D1117"/>
+<img height="160em" src="https://github-readme-stats.vercel.app/api?username=Mari432hz&theme=transparent&show_icons=true&hide_border=true&cache_seconds=1800"/>
 
 </div>
 
@@ -69,11 +69,11 @@
 ### Contact
 
 <p align="left">
-  <a href="mailto:YOUR_EMAIL_HERE">
+  <a href="mailto:maritav200811@gmail.com">
     <img src="https://img.shields.io/badge/email-1f2937?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 
-  <a href="YOUR_LINKEDIN_HERE">
+  <a href="www.linkedin.com/in/mariana-tavares-perfil">
     <img src="https://img.shields.io/badge/linkedin-334155?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </p>
