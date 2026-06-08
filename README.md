@@ -56,24 +56,14 @@
 
 <br>
 
-### GitHub Stats
-
-<div align="left">
-
-<img height="160em" src="https://github-readme-stats.vercel.app/api?username=Mari432hz&theme=transparent&show_icons=true&hide_border=true&cache_seconds=1800"/>
-
-</div>
-
-<br>
-
 ### Contato
 
 <p align="left">
-  <a href="mailto:YOUR_EMAIL_HERE">
+  <a href="mailto:maritav200811@gmail.com">
     <img src="https://img.shields.io/badge/email-1f2937?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 
-  <a href="YOUR_LINKEDIN_HERE">
+  <a href="www.linkedin.com/in/mariana-tavares-perfil">
     <img src="https://img.shields.io/badge/linkedin-334155?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </p>
