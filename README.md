@@ -62,8 +62,7 @@
   <a href="mailto:maritav200811@gmail.com">
     <img src="https://img.shields.io/badge/email-1f2937?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-
-  <a href="www.linkedin.com/in/mariana-tavares-perfil">
+   <a href="https://www.linkedin.com/in/mariana-tavares-perfil/" title="LinkedIn">
     <img src="https://img.shields.io/badge/linkedin-334155?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </p>
