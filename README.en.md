@@ -18,7 +18,7 @@
 
 # Mari Tav
 
-### *Curiosity drives creation.*
+### *Learning, building and sharing.*
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=400&size=18&pause=2500&color=7B8DA6&width=700&lines=Multiplatform+Software+Development+Student;Exploring+technology%2C+systems+and+meaningful+solutions;Learning+through+projects+and+collaborative+experiences" alt="Typing Animation" />
 
@@ -26,10 +26,9 @@
 
 <br>
 
-> Multiplatform Software Development student learning, building and exploring how technology can connect people, systems and ideas through continuous learning and hands-on experiences.
+> Hi! I'm a Software Development student who enjoys exploring how technology, creativity and collaboration can be transformed into meaningful solutions.
 
-> I’m interested in technology not only for the systems we build, but for the people and ideas they can connect. Through collaborative projects and hands-on experiences, I’m currently exploring how software development, organization and continuous learning can come together to create meaningful solutions.
-
+> I have been building my experience through academic projects, web development and teamwork, always seeking to understand not only how things work, but also why they exist. Currently, I am expanding my knowledge in software development by building projects, learning new tools and taking on challenges that help me grow continuously.
 <br>
 
 ### Technologies & Tools
@@ -47,13 +46,13 @@
 > Collaborative academic project focused on building a SCRUM certification platform through interface development, shared workflows and practical application of version control and organization practices.
 
 ##### Contributions
-- Interface implementation from Figma designs
-- Responsive front-end development
-- Interactive buttons and page redirections
-- UI consistency improvements and organizational suggestions
-- Collaborative workflow using Git & GitHub
-- Support for team onboarding and commit standardization
-
+- Developed the Home, Quiz Results and Certificate pages based on Figma prototypes
+- Implemented user interface features using HTML, CSS and JavaScript
+- Developed dynamic feedback messages based on user performance
+- Implemented navigation and page redirection flows
+- Developed the certificate generation feature in PDF format
+- Supported team workflow organization by contributing to commit standardization and Git/GitHub usage
+- Collaborated in a Scrum environment using GitHub Projects, Sprint Planning and Planning Poker
 <br>
 
 ### Contact
